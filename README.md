@@ -15,3 +15,9 @@ nomadcoder-react-study-4th_NextJS_tailwind_practice
 -   https://play.tailwindcss.com/n9lXpdgr12
 
 ![alt text](image.png)
+
+# Result2 URL
+
+-   https://play.tailwindcss.com/8JujVhCYOA
+
+![alt text](image-1.png)
